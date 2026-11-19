@@ -2,7 +2,7 @@
   {
     "id": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
     "clientId": "mqttx_bc246803",
-    "name": "KELOMPOK 4",
+    "name": "KELOMPOK 5",
     "clean": true,
     "protocol": "mqtt",
     "host": "broker.emqx.io",
@@ -32,7 +32,7 @@
     "subscriptions": [
       {
         "id": "scription_f3910061-77fa-4f7c-935c-469426cd77fe",
-        "topic": "kelas-08A/tim4/#",
+        "topic": "kelas-08A/tim5/#",
         "qos": 0,
         "disabled": false,
         "alias": "",
@@ -79,7 +79,7 @@
         "payload": "hallo mqtt",
         "qos": 0,
         "retain": false,
-        "topic": "kelas-08A/24/",
+        "topic": "kelas-08A/17/",
         "meta": null,
         "connectionId": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
         "properties": {
@@ -99,7 +99,7 @@
         "payload": "hallo mqtt",
         "qos": 0,
         "retain": false,
-        "topic": "kelas-08A/24/",
+        "topic": "kelas-08A/17/",
         "meta": "{\"msgType\":\"Plaintext\"}",
         "connectionId": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
         "properties": {
@@ -119,7 +119,7 @@
         "payload": "hallo mqtt",
         "qos": 0,
         "retain": false,
-        "topic": "gedung-08A/24/",
+        "topic": "gedung-08A/17/",
         "meta": null,
         "connectionId": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
         "properties": {
